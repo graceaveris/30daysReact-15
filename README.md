@@ -1,8 +1,8 @@
-Day Fifteen - 30 days of React challenge - "Random Holiday Destination" app
+**Day Fifteen - 30 days of React challenge - "Random Holiday Destination" app**
 
 Today i've connected with Google Maps API to create a simple app that generates a random holiday destination, and shows you on a map with a label.
 
-Concepts Explored:
+**Concepts Explored:**
 - Using Google Maps API with React
 - Integration of google-maps-react npm
 - Managing external components from library
